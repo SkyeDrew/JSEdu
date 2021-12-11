@@ -1,2 +1,2 @@
-# htmlEdu
-a roughwork of learning html
+# JSEdu
+a roughwork of learning JS
